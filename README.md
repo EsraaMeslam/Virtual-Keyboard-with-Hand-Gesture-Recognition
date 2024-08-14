@@ -8,9 +8,6 @@ The idea behind this project is to create an intuitive and hands-free typing sol
 
 ## Features
 
-
-## Features
-
 - **Real-time Hand Detection:**
   - Utilizes OpenCV for capturing video from the webcam and the `cvzone` library, which is built on top of MediaPipe, to detect and track hand movements in real-time.
   - The hand detection algorithm identifies the position of the hand and its key landmarks, such as the tips of the fingers, allowing precise gesture recognition.
